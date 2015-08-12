@@ -1,0 +1,13 @@
+{
+  "name": "RippleDemo",
+  "version": "0.0.0",
+  "description": "Ripple Demo using WebSockets and D3",
+  "authors": [
+    "Pragyan Das"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "d3": "~3.5.6",
+    "jquery": "~2.1.4"
+  }
+}
